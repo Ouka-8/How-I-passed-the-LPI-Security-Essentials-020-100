@@ -13,3 +13,5 @@ But here’s the truth: not everyone learns the same way. What works for me migh
 If, you find my path doesn’t serve you, I encourage you to pursue the study rhythm, tools, and habits that help you thrive.
 
 Resources used: Jason Dion's LPI Security Essentials (020-100) on Udemy
+
+
