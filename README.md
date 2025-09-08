@@ -1,5 +1,5 @@
-# How-I-passed-the-LPI-Security-Essentials-020-100
-Sharing my roadmap, notes, and resources that helped me pass the LPIC Security Essentials (020-100) exam, so you can learn from and adapt them to your own study style.
+# How-I-passed-the-LPI-Essentials-010-160
+Sharing my roadmap, notes, and resources that helped me pass the LPIC Essentials (010-160) exam, so you can learn from and adapt them to your own study style.
 
 On this September evening in 2025, the air holds steady at 79 degrees. Neither oppressive nor cool, but balanced, as if the day itself is holding its breath. I sit here writing, not yet a passer of the exam. 
 That might sound bold one might even say misleading—but it isn’t.
@@ -12,6 +12,8 @@ When this process closes, I trust that success will be the natural outcome of th
 But here’s the truth: not everyone learns the same way. What works for me might not be the perfect fit for you. 
 If, you find my path doesn’t serve you, I encourage you to pursue the study rhythm, tools, and habits that help you thrive.
 
-Resources used: Jason Dion's LPI Security Essentials (020-100) on Udemy
+Resources used: Jason Dion's LPI Essentials (010-160) on Udemy
+Cisco's Linux Essentials course on Netacad
+
 
 
