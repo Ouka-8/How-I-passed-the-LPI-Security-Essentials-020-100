@@ -12,8 +12,10 @@ When this process closes, I trust that success will be the natural outcome of th
 But here’s the truth: not everyone learns the same way. What works for me might not be the perfect fit for you. 
 If, you find my path doesn’t serve you, I encourage you to pursue the study rhythm, tools, and habits that help you thrive.
 
-Resources used: Jason Dion's LPI Essentials (010-160) on Udemy
-Cisco's Linux Essentials course on Netacad
+Resources used: - Jason Dion's LPI Essentials (010-160) on Udemy
+                - Cisco's Linux Essentials course on Netacad
+                - LPI Linux Essentials 010-160 (6 Practice Exams)
+
 
 
 
