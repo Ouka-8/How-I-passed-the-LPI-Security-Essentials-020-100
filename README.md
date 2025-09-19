@@ -60,8 +60,6 @@ My goal is to provide a **transparent look** at my study plan, notes, and resour
 
 ## 📝 Notes & Cheat Sheets  
 
-Inside the `/notes` folder you’ll find topic-by-topic breakdowns including:  
-
 - **Basic Linux Commands** (navigation, file handling, permissions)  
 - **Shell Scripting Templates**  
 - **User and Group Administration Tips**  
@@ -103,7 +101,6 @@ They are not official LPI materials. Always verify against the **official exam o
 ---
 
 
-## 📂 Repo Structure  
 ---
 ## 🖼️ Proof of Passing  
 
