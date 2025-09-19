@@ -80,7 +80,8 @@ Inside the `/notes` folder you’ll find topic-by-topic breakdowns including:
 
 ## 📝 Exam Day Experience  
 
-- **Start Time:** 10:36 AM  
+- **Start Time:** 10:36 AM
+- **40 Questions**  
 - **Duration:** 60 minutes (finished it in about 10 minutes)   
 - **Result:** **Passed 🎉**  
 
@@ -101,26 +102,15 @@ These notes and resources reflect my **personal study process**.
 They are not official LPI materials. Always verify against the **official exam objectives**.  
 ---
 
+
 ## 🖼️ Proof of Passing  
 
 Here’s my official proof of passing the **LPI Linux Essentials (010-160)** exam:  
 
-![https://github.com/Ouka-8/How-I-passed-the-LPI-Security-Essentials-020-100/blob/5f99f62e6e342cd1600c29578538878ac7fc5a41/ScreenshotLPIEssentialresults.png)
-
+![Proof of Passing](ScreenshotLPIEssentialresults.png)
 
 *LPI Linux Essentials Exam — Passed September 2025*
 
----
-
-## 📂 Repo Structure  
-
-
----
-
-## 🤝 Contributing  
-
-Have tips or additional resources for the 010-160 exam?  
-Open an **Issue** or submit a **Pull Request** to share with others.  
 
 ---
 
