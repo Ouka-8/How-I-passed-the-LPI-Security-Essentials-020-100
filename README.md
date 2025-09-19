@@ -103,9 +103,9 @@ They are not official LPI materials. Always verify against the **official exam o
 ---
 
 
+## 📂 Repo Structure  
+---
 ## 🖼️ Proof of Passing  
-
-Here’s my official proof of passing the **LPI Linux Essentials (010-160)** exam:  
 
 ![Proof of Passing](ScreenshotLPIEssentialresults.png)
 
