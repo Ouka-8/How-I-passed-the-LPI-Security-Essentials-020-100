@@ -81,7 +81,7 @@ Inside the `/notes` folder you’ll find topic-by-topic breakdowns including:
 ## 📝 Exam Day Experience  
 
 - **Start Time:** 10:36 AM  
-- **Duration:** 60 minutes(finished it in about 10 minutes)   
+- **Duration:** 60 minutes (finished it in about 10 minutes)   
 - **Result:** **Passed 🎉**  
 
 ---
