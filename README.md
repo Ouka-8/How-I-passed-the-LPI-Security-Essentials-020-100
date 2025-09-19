@@ -99,6 +99,15 @@ Inside the `/notes` folder you’ll find topic-by-topic breakdowns including:
 
 These notes and resources reflect my **personal study process**.  
 They are not official LPI materials. Always verify against the **official exam objectives**.  
+---
+
+## 🖼️ Proof of Passing  
+
+Here’s my official proof of passing the **LPI Linux Essentials (010-160)** exam:  
+
+![Proof of Passing](images/proof.png)
+
+*LPI Linux Essentials Exam — Passed September 2025*
 
 ---
 
