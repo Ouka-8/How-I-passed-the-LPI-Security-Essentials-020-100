@@ -105,7 +105,8 @@ They are not official LPI materials. Always verify against the **official exam o
 
 Here’s my official proof of passing the **LPI Linux Essentials (010-160)** exam:  
 
-![How-I-passed-the-LPI-Security-Essentials-020-100/ScreenshotLPIEssentialresults.png)
+![https://github.com/Ouka-8/How-I-passed-the-LPI-Security-Essentials-020-100/blob/5f99f62e6e342cd1600c29578538878ac7fc5a41/ScreenshotLPIEssentialresults.png)
+
 
 *LPI Linux Essentials Exam — Passed September 2025*
 
